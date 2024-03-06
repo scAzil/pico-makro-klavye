@@ -1,0 +1,1 @@
+Raspberry Pi Pico kullanarak kendi oyuncu klavyemizi yaptık. Oyun oynarken büyük klavyeden çektiğimiz fazla tuşlara yanlışlıkla basma problemini ortadan kaldırmak adına yaptığımız projemizde w, a, s, d ve space tuşlarını kullandık.
